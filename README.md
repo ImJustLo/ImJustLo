@@ -3,5 +3,5 @@ I'm a learning C++ developer working on the engine HPVE!
 ![status](https://img.shields.io/badge/status-alive-green)
 
 ## What I'm good at:
-![My Skills](htps://skillicons.dev/icons?i=robloxstudio)
+![My Skills](https://skillicons.dev/icons?i=robloxstudio&perline=3)(https://skillicons.dev)
 
