@@ -1,8 +1,20 @@
-#  Hi! I'm Lo!
+#  Hi!! I'm Lo!
 
 ## What I'm good at:
-[![My Skills](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img
+      src="https://i.icoziv.workers.dev/icons?i=unity,cs,js,nodejs"
+    />
+  </a>
+</p>
 
-## What I'm learning:
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+## Tools and Software:
+<p align="center">
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img
+      src="https://i.icoziv.workers.dev/icons?i=blender,git,cloudflare"
+    />
+  </a>
+</p>
 
